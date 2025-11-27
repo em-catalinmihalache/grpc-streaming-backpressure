@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/grpc-streaming-backpressure.slnx/FileContentIndex
+/.vs/grpc-streaming-backpressure.slnx/v18
+/src/TelemetryClient/bin/Debug/net10.0
+/src/TelemetryClient/obj
+/src/TelemetryServer/bin/Debug/net10.0
+/src/TelemetryServer/obj
+/src/TelemetryServer/obj/Debug/net10.0
+/.gitignore

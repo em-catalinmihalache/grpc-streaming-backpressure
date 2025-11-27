@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TelemetryServer": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55424;http://localhost:55425"
+    }
+  }
+}
