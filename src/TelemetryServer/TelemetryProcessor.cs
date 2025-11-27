@@ -1,21 +1,27 @@
+using System.Threading.Channels;
 using TelemetryGrpc;
 
 public class TelemetryProcessor
 {
-    private readonly ILogger<TelemetryProcessor> _logger;
+    private readonly Channel<TelemetryEvent> _channel;
 
-    public TelemetryProcessor(ILogger<TelemetryProcessor> logger)
+    public TelemetryProcessor()
     {
-        _logger = logger;
+        var options = new BoundedChannelOptions(20)
+        {
+            FullMode = BoundedChannelFullMode.Wait
+        };
+        _channel = Channel.CreateBounded<TelemetryEvent>(options);
     }
 
-    public async Task<(bool Accepted, string Message)> ProcessEventAsync(
-        TelemetryEvent ev, CancellationToken ct)
+    public Channel<TelemetryEvent> ProcessorChannel => _channel;
+
+    public async Task StartAsync(CancellationToken ct = default)
     {
-        await Task.Delay(500, ct);
-
-        _logger.LogInformation("Processed {ClientId}:{EventId}", ev.ClientId, ev.EventId);
-
-        return (true, "ok");
+        await foreach (var ev in _channel.Reader.ReadAllAsync(ct))
+        {
+            // Simulate slow processing BEFORE freeing the channel
+            await Task.Delay(Random.Shared.Next(1, 500), ct);
+        }
     }
 }

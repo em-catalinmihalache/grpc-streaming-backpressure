@@ -4,17 +4,15 @@ option csharp_namespace = "TelemetryGrpc";
 
 message TelemetryEvent {
   string clientId = 1;
-  string eventId = 2;
+  int32 eventId = 2;
   int64 timestampUnixMs = 3;
   string payload = 4;
 }
 
 message TelemetryAck {
   string clientId = 1;
-  string eventId = 2;
-  int64 timestampUnixMs = 3;
-  bool accepted = 4;
-  string message = 5;  
+  int32 eventId = 2;
+  string status = 3;  
 }
 
 service Telemetry {
