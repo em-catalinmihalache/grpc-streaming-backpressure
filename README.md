@@ -29,8 +29,11 @@ By default, gRPC duplex streams allow clients to send messages **much faster** t
 We needed:
 
 ✔ Server-side backpressure
+
 ✔ Client-side slowdown when server is overwhelmed
+
 ✔ A bounded internal buffer
+
 ✔ A predictable, self-throttling streaming pipeline
 
 ---
