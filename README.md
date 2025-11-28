@@ -106,11 +106,17 @@ Neither client nor server can overrun the pipeline.
 **A fully automatic, stable, self-regulating streaming system:**
 
 🟩 **REAL bidirectional backpressure**
+
 🟩 **No memory leaks**
+
 🟩 **No unbounded latency**
+
 🟩 **No message loss**
+
 🟩 **Safe throttling on both client & server**
+
 🟩 **Predictable channel behavior**
+
 🟩 **TCP-level congestion control working together with app-level control**
 
 This is the ideal architecture for:
