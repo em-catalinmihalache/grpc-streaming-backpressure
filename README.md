@@ -1,4 +1,4 @@
-# **Telemetry Streaming with Bidirectional Backpressure (gRPC + Channels) with .NET 10**
+# **End-to-End gRPC Streaming with Bidirectional Backpressure (gRPC + Channels) with .NET 10**
 
 This document describes the problem, the architecture, and the results obtained during testing a high-throughput telemetry ingestion system built using **gRPC bidirectional streaming** and **bounded channels**.
 The goal of the experiment was to validate whether true *bidirectional backpressure* can be achieved between:
