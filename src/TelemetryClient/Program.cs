@@ -4,8 +4,7 @@ using System.Diagnostics;
 using TelemetryGrpc;
 
 var channel = GrpcChannel.ForAddress("https://localhost:55424", new GrpcChannelOptions
-{
-    // Very small for demo
+{    
     // 600 KB per message
     MaxSendMessageSize = 600 * 1024
 });
@@ -44,7 +43,7 @@ var writeTask = Task.Run(async () =>
 
     for (int i = 0; i < 500; i++) // reduced for demo
     {
-        // Generate a  50–600 KB payload string
+        // Generate a 50 KB – 600 KB payload string
         int size = rnd.Next(50 * 1024, 600 * 1024);
         var payload = new string('X', size);
 
