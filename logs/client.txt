@@ -1,0 +1,836 @@
+Client WriteAsync paused for 15 ms at event 0 | Total paused: 15 ms | Peak: 15 ms
+Client WriteAsync paused for 3 ms at event 1 | Total paused: 18 ms | Peak: 15 ms
+Client WriteAsync paused for 13 ms at event 2 | Total paused: 31 ms | Peak: 15 ms
+Client received ACK: client-1 -> 0 -> ok
+Client received ACK: client-1 -> 1 -> ok
+Client received ACK: client-1 -> 2 -> ok
+Client WriteAsync paused for 2 ms at event 3 | Total paused: 33 ms | Peak: 15 ms
+Client received ACK: client-1 -> 3 -> ok
+Client WriteAsync paused for 4 ms at event 4 | Total paused: 37 ms | Peak: 15 ms
+Client received ACK: client-1 -> 4 -> ok
+Client received ACK: client-1 -> 5 -> ok
+Client WriteAsync paused for 14 ms at event 6 | Total paused: 51 ms | Peak: 15 ms
+Client received ACK: client-1 -> 6 -> ok
+Client WriteAsync paused for 2 ms at event 7 | Total paused: 53 ms | Peak: 15 ms
+Client received ACK: client-1 -> 7 -> ok
+Client WriteAsync paused for 6 ms at event 8 | Total paused: 59 ms | Peak: 15 ms
+Client received ACK: client-1 -> 8 -> ok
+Client received ACK: client-1 -> 9 -> ok
+Client received ACK: client-1 -> 10 -> ok
+Client received ACK: client-1 -> 11 -> ok
+Client WriteAsync paused for 7 ms at event 12 | Total paused: 66 ms | Peak: 15 ms
+Client received ACK: client-1 -> 12 -> ok
+Client WriteAsync paused for 4 ms at event 13 | Total paused: 70 ms | Peak: 15 ms
+Client received ACK: client-1 -> 13 -> ok
+Client WriteAsync paused for 3 ms at event 14 | Total paused: 73 ms | Peak: 15 ms
+Client received ACK: client-1 -> 14 -> ok
+Client WriteAsync paused for 2 ms at event 15 | Total paused: 75 ms | Peak: 15 ms
+Client received ACK: client-1 -> 15 -> ok
+Client WriteAsync paused for 3 ms at event 16 | Total paused: 78 ms | Peak: 15 ms
+Client received ACK: client-1 -> 16 -> ok
+Client WriteAsync paused for 2 ms at event 17 | Total paused: 80 ms | Peak: 15 ms
+Client received ACK: client-1 -> 17 -> ok
+Client WriteAsync paused for 3 ms at event 18 | Total paused: 83 ms | Peak: 15 ms
+Client received ACK: client-1 -> 18 -> ok
+Client received ACK: client-1 -> 19 -> ok
+Client WriteAsync paused for 2 ms at event 20 | Total paused: 85 ms | Peak: 15 ms
+Client received ACK: client-1 -> 20 -> ok
+Client received ACK: client-1 -> 21 -> ok
+Client received ACK: client-1 -> 22 -> ok
+Client WriteAsync paused for 7 ms at event 23 | Total paused: 92 ms | Peak: 15 ms
+Client received ACK: client-1 -> 23 -> ok
+Client received ACK: client-1 -> 24 -> ok
+Client WriteAsync paused for 4 ms at event 25 | Total paused: 96 ms | Peak: 15 ms
+Client received ACK: client-1 -> 25 -> ok
+Client WriteAsync paused for 4 ms at event 26 | Total paused: 100 ms | Peak: 15 ms
+Client received ACK: client-1 -> 26 -> ok
+Client WriteAsync paused for 2 ms at event 27 | Total paused: 102 ms | Peak: 15 ms
+Client received ACK: client-1 -> 27 -> ok
+Client WriteAsync paused for 3 ms at event 28 | Total paused: 105 ms | Peak: 15 ms
+Client received ACK: client-1 -> 28 -> ok
+Client received ACK: client-1 -> 29 -> ok
+Client received ACK: client-1 -> 30 -> ok
+Client received ACK: client-1 -> 31 -> ok
+Client received ACK: client-1 -> 32 -> ok
+Client WriteAsync paused for 3 ms at event 33 | Total paused: 108 ms | Peak: 15 ms
+Client received ACK: client-1 -> 33 -> ok
+Client received ACK: client-1 -> 34 -> ok
+Client received ACK: client-1 -> 35 -> ok
+Client received ACK: client-1 -> 36 -> ok
+Client WriteAsync paused for 6 ms at event 37 | Total paused: 114 ms | Peak: 15 ms
+Client received ACK: client-1 -> 37 -> ok
+Client WriteAsync paused for 4 ms at event 38 | Total paused: 118 ms | Peak: 15 ms
+Client received ACK: client-1 -> 38 -> ok
+Client WriteAsync paused for 6 ms at event 39 | Total paused: 124 ms | Peak: 15 ms
+Client received ACK: client-1 -> 39 -> ok
+Client WriteAsync paused for 3 ms at event 40 | Total paused: 127 ms | Peak: 15 ms
+Client received ACK: client-1 -> 40 -> ok
+Client received ACK: client-1 -> 41 -> ok
+Client WriteAsync paused for 7 ms at event 42 | Total paused: 134 ms | Peak: 15 ms
+Client received ACK: client-1 -> 42 -> ok
+Client WriteAsync paused for 3 ms at event 43 | Total paused: 137 ms | Peak: 15 ms
+Client received ACK: client-1 -> 43 -> ok
+Client WriteAsync paused for 3 ms at event 44 | Total paused: 140 ms | Peak: 15 ms
+Client received ACK: client-1 -> 44 -> ok
+Client WriteAsync paused for 4 ms at event 45 | Total paused: 144 ms | Peak: 15 ms
+Client received ACK: client-1 -> 45 -> ok
+Client WriteAsync paused for 6 ms at event 46 | Total paused: 150 ms | Peak: 15 ms
+Client received ACK: client-1 -> 46 -> ok
+Client received ACK: client-1 -> 47 -> ok
+Client received ACK: client-1 -> 48 -> ok
+Client WriteAsync paused for 3 ms at event 49 | Total paused: 153 ms | Peak: 15 ms
+Client received ACK: client-1 -> 49 -> ok
+Client received ACK: client-1 -> 50 -> ok
+Client received ACK: client-1 -> 51 -> ok
+Client received ACK: client-1 -> 52 -> ok
+Client received ACK: client-1 -> 53 -> ok
+Client WriteAsync paused for 5 ms at event 54 | Total paused: 158 ms | Peak: 15 ms
+Client received ACK: client-1 -> 54 -> ok
+Client WriteAsync paused for 2 ms at event 55 | Total paused: 160 ms | Peak: 15 ms
+Client received ACK: client-1 -> 55 -> ok
+Client WriteAsync paused for 6 ms at event 56 | Total paused: 166 ms | Peak: 15 ms
+Client received ACK: client-1 -> 56 -> ok
+Client WriteAsync paused for 6 ms at event 57 | Total paused: 172 ms | Peak: 15 ms
+Client received ACK: client-1 -> 57 -> ok
+Client WriteAsync paused for 2 ms at event 58 | Total paused: 174 ms | Peak: 15 ms
+Client received ACK: client-1 -> 58 -> ok
+Client WriteAsync paused for 2 ms at event 59 | Total paused: 176 ms | Peak: 15 ms
+Client received ACK: client-1 -> 59 -> ok
+Client WriteAsync paused for 3 ms at event 60 | Total paused: 179 ms | Peak: 15 ms
+Client received ACK: client-1 -> 60 -> ok
+Client WriteAsync paused for 9 ms at event 61 | Total paused: 188 ms | Peak: 15 ms
+Client received ACK: client-1 -> 61 -> ok
+Client received ACK: client-1 -> 62 -> ok
+Client WriteAsync paused for 10 ms at event 63 | Total paused: 198 ms | Peak: 15 ms
+Client WriteAsync paused for 7 ms at event 65 | Total paused: 205 ms | Peak: 15 ms
+Client received ACK: client-1 -> 63 -> ok
+Client received ACK: client-1 -> 64 -> ok
+Client received ACK: client-1 -> 65 -> ok
+Client WriteAsync paused for 7 ms at event 66 | Total paused: 212 ms | Peak: 15 ms
+Client received ACK: client-1 -> 66 -> ok
+Client WriteAsync paused for 2 ms at event 67 | Total paused: 214 ms | Peak: 15 ms
+Client received ACK: client-1 -> 67 -> ok
+Client received ACK: client-1 -> 68 -> ok
+Client WriteAsync paused for 2 ms at event 69 | Total paused: 216 ms | Peak: 15 ms
+Client received ACK: client-1 -> 69 -> ok
+Client WriteAsync paused for 2 ms at event 70 | Total paused: 218 ms | Peak: 15 ms
+Client received ACK: client-1 -> 70 -> ok
+Client WriteAsync paused for 3 ms at event 71 | Total paused: 221 ms | Peak: 15 ms
+Client received ACK: client-1 -> 71 -> ok
+Client received ACK: client-1 -> 72 -> ok
+Client WriteAsync paused for 5 ms at event 73 | Total paused: 226 ms | Peak: 15 ms
+Client received ACK: client-1 -> 73 -> ok
+Client WriteAsync paused for 4 ms at event 74 | Total paused: 230 ms | Peak: 15 ms
+Client received ACK: client-1 -> 74 -> ok
+Client WriteAsync paused for 3 ms at event 75 | Total paused: 233 ms | Peak: 15 ms
+Client received ACK: client-1 -> 75 -> ok
+Client received ACK: client-1 -> 76 -> ok
+Client WriteAsync paused for 5 ms at event 77 | Total paused: 238 ms | Peak: 15 ms
+Client received ACK: client-1 -> 77 -> ok
+Client WriteAsync paused for 3 ms at event 78 | Total paused: 241 ms | Peak: 15 ms
+Client received ACK: client-1 -> 78 -> ok
+Client WriteAsync paused for 4 ms at event 79 | Total paused: 245 ms | Peak: 15 ms
+Client received ACK: client-1 -> 79 -> ok
+Client WriteAsync paused for 2 ms at event 80 | Total paused: 247 ms | Peak: 15 ms
+Client received ACK: client-1 -> 80 -> ok
+Client received ACK: client-1 -> 81 -> ok
+Client received ACK: client-1 -> 82 -> ok
+Client WriteAsync paused for 3 ms at event 83 | Total paused: 250 ms | Peak: 15 ms
+Client received ACK: client-1 -> 83 -> ok
+Client received ACK: client-1 -> 84 -> ok
+Client WriteAsync paused for 2 ms at event 85 | Total paused: 252 ms | Peak: 15 ms
+Client received ACK: client-1 -> 85 -> ok
+Client WriteAsync paused for 5 ms at event 86 | Total paused: 257 ms | Peak: 15 ms
+Client received ACK: client-1 -> 86 -> ok
+Client WriteAsync paused for 3 ms at event 87 | Total paused: 260 ms | Peak: 15 ms
+Client received ACK: client-1 -> 87 -> ok
+Client received ACK: client-1 -> 88 -> ok
+Client WriteAsync paused for 2 ms at event 89 | Total paused: 262 ms | Peak: 15 ms
+Client received ACK: client-1 -> 89 -> ok
+Client WriteAsync paused for 2 ms at event 90 | Total paused: 264 ms | Peak: 15 ms
+Client received ACK: client-1 -> 90 -> ok
+Client WriteAsync paused for 3 ms at event 91 | Total paused: 267 ms | Peak: 15 ms
+Client received ACK: client-1 -> 91 -> ok
+Client WriteAsync paused for 3 ms at event 92 | Total paused: 270 ms | Peak: 15 ms
+Client received ACK: client-1 -> 92 -> ok
+Client WriteAsync paused for 2 ms at event 93 | Total paused: 272 ms | Peak: 15 ms
+Client received ACK: client-1 -> 93 -> ok
+Client received ACK: client-1 -> 94 -> ok
+Client WriteAsync paused for 6 ms at event 95 | Total paused: 278 ms | Peak: 15 ms
+Client received ACK: client-1 -> 95 -> ok
+Client WriteAsync paused for 2 ms at event 96 | Total paused: 280 ms | Peak: 15 ms
+Client received ACK: client-1 -> 96 -> ok
+Client WriteAsync paused for 5 ms at event 97 | Total paused: 285 ms | Peak: 15 ms
+Client received ACK: client-1 -> 97 -> ok
+Client received ACK: client-1 -> 98 -> ok
+Client WriteAsync paused for 3 ms at event 99 | Total paused: 288 ms | Peak: 15 ms
+Client received ACK: client-1 -> 99 -> ok
+Client WriteAsync paused for 3 ms at event 100 | Total paused: 291 ms | Peak: 15 ms
+Client received ACK: client-1 -> 100 -> ok
+Client received ACK: client-1 -> 101 -> ok
+Client WriteAsync paused for 3 ms at event 102 | Total paused: 294 ms | Peak: 15 ms
+Client received ACK: client-1 -> 102 -> ok
+Client WriteAsync paused for 3 ms at event 103 | Total paused: 297 ms | Peak: 15 ms
+Client received ACK: client-1 -> 103 -> ok
+Client WriteAsync paused for 2 ms at event 104 | Total paused: 299 ms | Peak: 15 ms
+Client received ACK: client-1 -> 104 -> ok
+Client received ACK: client-1 -> 105 -> ok
+Client WriteAsync paused for 3 ms at event 106 | Total paused: 302 ms | Peak: 15 ms
+Client received ACK: client-1 -> 106 -> ok
+Client WriteAsync paused for 3 ms at event 107 | Total paused: 305 ms | Peak: 15 ms
+Client received ACK: client-1 -> 107 -> ok
+Client WriteAsync paused for 2 ms at event 108 | Total paused: 307 ms | Peak: 15 ms
+Client received ACK: client-1 -> 108 -> ok
+Client WriteAsync paused for 2 ms at event 109 | Total paused: 309 ms | Peak: 15 ms
+Client received ACK: client-1 -> 109 -> ok
+Client WriteAsync paused for 2 ms at event 110 | Total paused: 311 ms | Peak: 15 ms
+Client received ACK: client-1 -> 110 -> ok
+Client WriteAsync paused for 22 ms at event 111 | Total paused: 333 ms | Peak: 22 ms
+Client received ACK: client-1 -> 111 -> ok
+Client WriteAsync paused for 4 ms at event 112 | Total paused: 337 ms | Peak: 22 ms
+Client received ACK: client-1 -> 112 -> ok
+Client WriteAsync paused for 3 ms at event 113 | Total paused: 340 ms | Peak: 22 ms
+Client received ACK: client-1 -> 113 -> ok
+Client WriteAsync paused for 2 ms at event 114 | Total paused: 342 ms | Peak: 22 ms
+Client received ACK: client-1 -> 114 -> ok
+Client received ACK: client-1 -> 115 -> ok
+Client WriteAsync paused for 2 ms at event 116 | Total paused: 344 ms | Peak: 22 ms
+Client received ACK: client-1 -> 116 -> ok
+Client WriteAsync paused for 3 ms at event 117 | Total paused: 347 ms | Peak: 22 ms
+Client received ACK: client-1 -> 117 -> ok
+Client received ACK: client-1 -> 118 -> ok
+Client received ACK: client-1 -> 119 -> ok
+Client WriteAsync paused for 10 ms at event 120 | Total paused: 357 ms | Peak: 22 ms
+Client received ACK: client-1 -> 120 -> ok
+Client received ACK: client-1 -> 121 -> ok
+Client WriteAsync paused for 4 ms at event 122 | Total paused: 361 ms | Peak: 22 ms
+Client received ACK: client-1 -> 122 -> ok
+Client WriteAsync paused for 3 ms at event 123 | Total paused: 364 ms | Peak: 22 ms
+Client received ACK: client-1 -> 123 -> ok
+Client WriteAsync paused for 11 ms at event 124 | Total paused: 375 ms | Peak: 22 ms
+Client received ACK: client-1 -> 124 -> ok
+Client WriteAsync paused for 4 ms at event 125 | Total paused: 379 ms | Peak: 22 ms
+Client received ACK: client-1 -> 125 -> ok
+Client WriteAsync paused for 2 ms at event 127 | Total paused: 381 ms | Peak: 22 ms
+Client received ACK: client-1 -> 126 -> ok
+Client received ACK: client-1 -> 127 -> ok
+Client WriteAsync paused for 395 ms at event 128 | Total paused: 776 ms | Peak: 395 ms
+Client received ACK: client-1 -> 128 -> ok
+Client received ACK: client-1 -> 129 -> ok
+Client WriteAsync paused for 714 ms at event 130 | Total paused: 1490 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 132 | Total paused: 1492 ms | Peak: 714 ms
+Client received ACK: client-1 -> 130 -> ok
+Client received ACK: client-1 -> 131 -> ok
+Client received ACK: client-1 -> 132 -> ok
+Client WriteAsync paused for 658 ms at event 134 | Total paused: 2150 ms | Peak: 714 ms
+Client received ACK: client-1 -> 133 -> ok
+Client received ACK: client-1 -> 134 -> ok
+Client WriteAsync paused for 3 ms at event 135 | Total paused: 2153 ms | Peak: 714 ms
+Client received ACK: client-1 -> 135 -> ok
+Client WriteAsync paused for 2 ms at event 137 | Total paused: 2155 ms | Peak: 714 ms
+Client received ACK: client-1 -> 136 -> ok
+Client WriteAsync paused for 198 ms at event 139 | Total paused: 2353 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 140 | Total paused: 2355 ms | Peak: 714 ms
+Client received ACK: client-1 -> 137 -> ok
+Client received ACK: client-1 -> 138 -> ok
+Client WriteAsync paused for 462 ms at event 141 | Total paused: 2817 ms | Peak: 714 ms
+Client received ACK: client-1 -> 139 -> ok
+Client WriteAsync paused for 130 ms at event 142 | Total paused: 2947 ms | Peak: 714 ms
+Client received ACK: client-1 -> 140 -> ok
+Client received ACK: client-1 -> 141 -> ok
+Client WriteAsync paused for 379 ms at event 143 | Total paused: 3326 ms | Peak: 714 ms
+Client WriteAsync paused for 3 ms at event 144 | Total paused: 3329 ms | Peak: 714 ms
+Client received ACK: client-1 -> 142 -> ok
+Client received ACK: client-1 -> 143 -> ok
+Client WriteAsync paused for 115 ms at event 145 | Total paused: 3444 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 146 | Total paused: 3446 ms | Peak: 714 ms
+Client received ACK: client-1 -> 144 -> ok
+Client received ACK: client-1 -> 145 -> ok
+Client received ACK: client-1 -> 146 -> ok
+Client WriteAsync paused for 4 ms at event 147 | Total paused: 3450 ms | Peak: 714 ms
+Client received ACK: client-1 -> 147 -> ok
+Client WriteAsync paused for 3 ms at event 148 | Total paused: 3453 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 149 | Total paused: 3455 ms | Peak: 714 ms
+Client received ACK: client-1 -> 148 -> ok
+Client received ACK: client-1 -> 149 -> ok
+Client WriteAsync paused for 2 ms at event 150 | Total paused: 3457 ms | Peak: 714 ms
+Client received ACK: client-1 -> 150 -> ok
+Client WriteAsync paused for 39 ms at event 152 | Total paused: 3496 ms | Peak: 714 ms
+Client received ACK: client-1 -> 151 -> ok
+Client WriteAsync paused for 194 ms at event 155 | Total paused: 3690 ms | Peak: 714 ms
+Client received ACK: client-1 -> 152 -> ok
+Client received ACK: client-1 -> 153 -> ok
+Client WriteAsync paused for 3 ms at event 156 | Total paused: 3693 ms | Peak: 714 ms
+Client received ACK: client-1 -> 154 -> ok
+Client received ACK: client-1 -> 155 -> ok
+Client WriteAsync paused for 363 ms at event 157 | Total paused: 4056 ms | Peak: 714 ms
+Client received ACK: client-1 -> 156 -> ok
+Client received ACK: client-1 -> 157 -> ok
+Client received ACK: client-1 -> 158 -> ok
+Client received ACK: client-1 -> 159 -> ok
+Client WriteAsync paused for 5 ms at event 160 | Total paused: 4061 ms | Peak: 714 ms
+Client received ACK: client-1 -> 160 -> ok
+Client WriteAsync paused for 2 ms at event 161 | Total paused: 4063 ms | Peak: 714 ms
+Client received ACK: client-1 -> 161 -> ok
+Client WriteAsync paused for 3 ms at event 162 | Total paused: 4066 ms | Peak: 714 ms
+Client received ACK: client-1 -> 162 -> ok
+Client WriteAsync paused for 4 ms at event 163 | Total paused: 4070 ms | Peak: 714 ms
+Client received ACK: client-1 -> 163 -> ok
+Client WriteAsync paused for 3 ms at event 164 | Total paused: 4073 ms | Peak: 714 ms
+Client received ACK: client-1 -> 164 -> ok
+Client WriteAsync paused for 179 ms at event 165 | Total paused: 4252 ms | Peak: 714 ms
+Client received ACK: client-1 -> 165 -> ok
+Client WriteAsync paused for 2 ms at event 166 | Total paused: 4254 ms | Peak: 714 ms
+Client received ACK: client-1 -> 166 -> ok
+Client received ACK: client-1 -> 167 -> ok
+Client WriteAsync paused for 2 ms at event 168 | Total paused: 4256 ms | Peak: 714 ms
+Client received ACK: client-1 -> 168 -> ok
+Client WriteAsync paused for 3 ms at event 169 | Total paused: 4259 ms | Peak: 714 ms
+Client received ACK: client-1 -> 169 -> ok
+Client WriteAsync paused for 3 ms at event 170 | Total paused: 4262 ms | Peak: 714 ms
+Client received ACK: client-1 -> 170 -> ok
+Client WriteAsync paused for 4 ms at event 171 | Total paused: 4266 ms | Peak: 714 ms
+Client received ACK: client-1 -> 171 -> ok
+Client WriteAsync paused for 3 ms at event 172 | Total paused: 4269 ms | Peak: 714 ms
+Client received ACK: client-1 -> 172 -> ok
+Client WriteAsync paused for 2 ms at event 173 | Total paused: 4271 ms | Peak: 714 ms
+Client received ACK: client-1 -> 173 -> ok
+Client WriteAsync paused for 2 ms at event 174 | Total paused: 4273 ms | Peak: 714 ms
+Client received ACK: client-1 -> 174 -> ok
+Client WriteAsync paused for 2 ms at event 178 | Total paused: 4275 ms | Peak: 714 ms
+Client received ACK: client-1 -> 175 -> ok
+Client received ACK: client-1 -> 176 -> ok
+Client received ACK: client-1 -> 177 -> ok
+Client WriteAsync paused for 544 ms at event 179 | Total paused: 4819 ms | Peak: 714 ms
+Client received ACK: client-1 -> 178 -> ok
+Client WriteAsync paused for 331 ms at event 181 | Total paused: 5150 ms | Peak: 714 ms
+Client received ACK: client-1 -> 179 -> ok
+Client received ACK: client-1 -> 180 -> ok
+Client received ACK: client-1 -> 181 -> ok
+Client received ACK: client-1 -> 182 -> ok
+Client WriteAsync paused for 4 ms at event 183 | Total paused: 5154 ms | Peak: 714 ms
+Client WriteAsync paused for 10 ms at event 185 | Total paused: 5164 ms | Peak: 714 ms
+Client received ACK: client-1 -> 183 -> ok
+Client received ACK: client-1 -> 184 -> ok
+Client received ACK: client-1 -> 185 -> ok
+Client WriteAsync paused for 3 ms at event 186 | Total paused: 5167 ms | Peak: 714 ms
+Client received ACK: client-1 -> 186 -> ok
+Client received ACK: client-1 -> 187 -> ok
+Client WriteAsync paused for 2 ms at event 188 | Total paused: 5169 ms | Peak: 714 ms
+Client received ACK: client-1 -> 188 -> ok
+Client WriteAsync paused for 2 ms at event 189 | Total paused: 5171 ms | Peak: 714 ms
+Client received ACK: client-1 -> 189 -> ok
+Client received ACK: client-1 -> 190 -> ok
+Client WriteAsync paused for 3 ms at event 191 | Total paused: 5174 ms | Peak: 714 ms
+Client received ACK: client-1 -> 191 -> ok
+Client WriteAsync paused for 16 ms at event 192 | Total paused: 5190 ms | Peak: 714 ms
+Client received ACK: client-1 -> 192 -> ok
+Client WriteAsync paused for 3 ms at event 193 | Total paused: 5193 ms | Peak: 714 ms
+Client received ACK: client-1 -> 193 -> ok
+Client WriteAsync paused for 5 ms at event 194 | Total paused: 5198 ms | Peak: 714 ms
+Client received ACK: client-1 -> 194 -> ok
+Client WriteAsync paused for 3 ms at event 195 | Total paused: 5201 ms | Peak: 714 ms
+Client received ACK: client-1 -> 195 -> ok
+Client WriteAsync paused for 3 ms at event 196 | Total paused: 5204 ms | Peak: 714 ms
+Client received ACK: client-1 -> 196 -> ok
+Client received ACK: client-1 -> 197 -> ok
+Client WriteAsync paused for 5 ms at event 198 | Total paused: 5209 ms | Peak: 714 ms
+Client received ACK: client-1 -> 198 -> ok
+Client WriteAsync paused for 2 ms at event 199 | Total paused: 5211 ms | Peak: 714 ms
+Client received ACK: client-1 -> 199 -> ok
+Client received ACK: client-1 -> 200 -> ok
+Client received ACK: client-1 -> 201 -> ok
+Client WriteAsync paused for 3 ms at event 202 | Total paused: 5214 ms | Peak: 714 ms
+Client received ACK: client-1 -> 202 -> ok
+Client received ACK: client-1 -> 203 -> ok
+Client received ACK: client-1 -> 204 -> ok
+Client WriteAsync paused for 3 ms at event 205 | Total paused: 5217 ms | Peak: 714 ms
+Client received ACK: client-1 -> 205 -> ok
+Client WriteAsync paused for 3 ms at event 206 | Total paused: 5220 ms | Peak: 714 ms
+Client received ACK: client-1 -> 206 -> ok
+Client received ACK: client-1 -> 207 -> ok
+Client received ACK: client-1 -> 208 -> ok
+Client received ACK: client-1 -> 209 -> ok
+Client WriteAsync paused for 6 ms at event 210 | Total paused: 5226 ms | Peak: 714 ms
+Client received ACK: client-1 -> 210 -> ok
+Client WriteAsync paused for 6 ms at event 211 | Total paused: 5232 ms | Peak: 714 ms
+Client received ACK: client-1 -> 211 -> ok
+Client received ACK: client-1 -> 212 -> ok
+Client WriteAsync paused for 2 ms at event 213 | Total paused: 5234 ms | Peak: 714 ms
+Client received ACK: client-1 -> 213 -> ok
+Client received ACK: client-1 -> 214 -> ok
+Client WriteAsync paused for 2 ms at event 215 | Total paused: 5236 ms | Peak: 714 ms
+Client received ACK: client-1 -> 215 -> ok
+Client WriteAsync paused for 4 ms at event 216 | Total paused: 5240 ms | Peak: 714 ms
+Client received ACK: client-1 -> 216 -> ok
+Client WriteAsync paused for 5 ms at event 217 | Total paused: 5245 ms | Peak: 714 ms
+Client received ACK: client-1 -> 217 -> ok
+Client WriteAsync paused for 4 ms at event 218 | Total paused: 5249 ms | Peak: 714 ms
+Client received ACK: client-1 -> 218 -> ok
+Client WriteAsync paused for 4 ms at event 219 | Total paused: 5253 ms | Peak: 714 ms
+Client received ACK: client-1 -> 219 -> ok
+Client WriteAsync paused for 6 ms at event 220 | Total paused: 5259 ms | Peak: 714 ms
+Client received ACK: client-1 -> 220 -> ok
+Client WriteAsync paused for 2 ms at event 221 | Total paused: 5261 ms | Peak: 714 ms
+Client received ACK: client-1 -> 221 -> ok
+Client WriteAsync paused for 2 ms at event 222 | Total paused: 5263 ms | Peak: 714 ms
+Client received ACK: client-1 -> 222 -> ok
+Client received ACK: client-1 -> 223 -> ok
+Client WriteAsync paused for 2 ms at event 224 | Total paused: 5265 ms | Peak: 714 ms
+Client received ACK: client-1 -> 224 -> ok
+Client received ACK: client-1 -> 225 -> ok
+Client WriteAsync paused for 3 ms at event 226 | Total paused: 5268 ms | Peak: 714 ms
+Client received ACK: client-1 -> 226 -> ok
+Client WriteAsync paused for 4 ms at event 227 | Total paused: 5272 ms | Peak: 714 ms
+Client received ACK: client-1 -> 227 -> ok
+Client WriteAsync paused for 5 ms at event 228 | Total paused: 5277 ms | Peak: 714 ms
+Client received ACK: client-1 -> 228 -> ok
+Client WriteAsync paused for 2 ms at event 229 | Total paused: 5279 ms | Peak: 714 ms
+Client received ACK: client-1 -> 229 -> ok
+Client received ACK: client-1 -> 230 -> ok
+Client received ACK: client-1 -> 231 -> ok
+Client WriteAsync paused for 5 ms at event 232 | Total paused: 5284 ms | Peak: 714 ms
+Client received ACK: client-1 -> 232 -> ok
+Client received ACK: client-1 -> 233 -> ok
+Client WriteAsync paused for 3 ms at event 234 | Total paused: 5287 ms | Peak: 714 ms
+Client received ACK: client-1 -> 234 -> ok
+Client WriteAsync paused for 2 ms at event 235 | Total paused: 5289 ms | Peak: 714 ms
+Client received ACK: client-1 -> 235 -> ok
+Client WriteAsync paused for 2 ms at event 236 | Total paused: 5291 ms | Peak: 714 ms
+Client received ACK: client-1 -> 236 -> ok
+Client received ACK: client-1 -> 237 -> ok
+Client WriteAsync paused for 4 ms at event 238 | Total paused: 5295 ms | Peak: 714 ms
+Client received ACK: client-1 -> 238 -> ok
+Client WriteAsync paused for 2 ms at event 239 | Total paused: 5297 ms | Peak: 714 ms
+Client received ACK: client-1 -> 239 -> ok
+Client WriteAsync paused for 19 ms at event 240 | Total paused: 5316 ms | Peak: 714 ms
+Client received ACK: client-1 -> 240 -> ok
+Client WriteAsync paused for 3 ms at event 241 | Total paused: 5319 ms | Peak: 714 ms
+Client received ACK: client-1 -> 241 -> ok
+Client WriteAsync paused for 27 ms at event 242 | Total paused: 5346 ms | Peak: 714 ms
+Client received ACK: client-1 -> 242 -> ok
+Client received ACK: client-1 -> 243 -> ok
+Client WriteAsync paused for 3 ms at event 244 | Total paused: 5349 ms | Peak: 714 ms
+Client received ACK: client-1 -> 244 -> ok
+Client WriteAsync paused for 4 ms at event 245 | Total paused: 5353 ms | Peak: 714 ms
+Client received ACK: client-1 -> 245 -> ok
+Client received ACK: client-1 -> 246 -> ok
+Client WriteAsync paused for 3 ms at event 247 | Total paused: 5356 ms | Peak: 714 ms
+Client received ACK: client-1 -> 247 -> ok
+Client WriteAsync paused for 2 ms at event 248 | Total paused: 5358 ms | Peak: 714 ms
+Client received ACK: client-1 -> 248 -> ok
+Client received ACK: client-1 -> 249 -> ok
+Client WriteAsync paused for 4 ms at event 250 | Total paused: 5362 ms | Peak: 714 ms
+Client received ACK: client-1 -> 250 -> ok
+Client WriteAsync paused for 2 ms at event 251 | Total paused: 5364 ms | Peak: 714 ms
+Client received ACK: client-1 -> 251 -> ok
+Client received ACK: client-1 -> 252 -> ok
+Client received ACK: client-1 -> 253 -> ok
+Client received ACK: client-1 -> 254 -> ok
+Client received ACK: client-1 -> 255 -> ok
+Client received ACK: client-1 -> 256 -> ok
+Client received ACK: client-1 -> 257 -> ok
+Client received ACK: client-1 -> 258 -> ok
+Client WriteAsync paused for 3 ms at event 259 | Total paused: 5367 ms | Peak: 714 ms
+Client received ACK: client-1 -> 259 -> ok
+Client WriteAsync paused for 12 ms at event 260 | Total paused: 5379 ms | Peak: 714 ms
+Client received ACK: client-1 -> 260 -> ok
+Client WriteAsync paused for 3 ms at event 261 | Total paused: 5382 ms | Peak: 714 ms
+Client received ACK: client-1 -> 261 -> ok
+Client received ACK: client-1 -> 262 -> ok
+Client WriteAsync paused for 2 ms at event 263 | Total paused: 5384 ms | Peak: 714 ms
+Client received ACK: client-1 -> 263 -> ok
+Client WriteAsync paused for 2 ms at event 264 | Total paused: 5386 ms | Peak: 714 ms
+Client received ACK: client-1 -> 264 -> ok
+Client received ACK: client-1 -> 265 -> ok
+Client received ACK: client-1 -> 266 -> ok
+Client WriteAsync paused for 2 ms at event 267 | Total paused: 5388 ms | Peak: 714 ms
+Client received ACK: client-1 -> 267 -> ok
+Client received ACK: client-1 -> 268 -> ok
+Client WriteAsync paused for 2 ms at event 269 | Total paused: 5390 ms | Peak: 714 ms
+Client received ACK: client-1 -> 269 -> ok
+Client received ACK: client-1 -> 270 -> ok
+Client WriteAsync paused for 2 ms at event 271 | Total paused: 5392 ms | Peak: 714 ms
+Client received ACK: client-1 -> 271 -> ok
+Client received ACK: client-1 -> 272 -> ok
+Client received ACK: client-1 -> 273 -> ok
+Client WriteAsync paused for 5 ms at event 274 | Total paused: 5397 ms | Peak: 714 ms
+Client received ACK: client-1 -> 274 -> ok
+Client WriteAsync paused for 2 ms at event 275 | Total paused: 5399 ms | Peak: 714 ms
+Client received ACK: client-1 -> 275 -> ok
+Client WriteAsync paused for 2 ms at event 276 | Total paused: 5401 ms | Peak: 714 ms
+Client received ACK: client-1 -> 276 -> ok
+Client WriteAsync paused for 5 ms at event 277 | Total paused: 5406 ms | Peak: 714 ms
+Client received ACK: client-1 -> 277 -> ok
+Client received ACK: client-1 -> 278 -> ok
+Client received ACK: client-1 -> 279 -> ok
+Client WriteAsync paused for 2 ms at event 281 | Total paused: 5408 ms | Peak: 714 ms
+Client received ACK: client-1 -> 280 -> ok
+Client received ACK: client-1 -> 281 -> ok
+Client WriteAsync paused for 2 ms at event 282 | Total paused: 5410 ms | Peak: 714 ms
+Client received ACK: client-1 -> 282 -> ok
+Client received ACK: client-1 -> 283 -> ok
+Client WriteAsync paused for 21 ms at event 284 | Total paused: 5431 ms | Peak: 714 ms
+Client received ACK: client-1 -> 284 -> ok
+Client WriteAsync paused for 4 ms at event 285 | Total paused: 5435 ms | Peak: 714 ms
+Client received ACK: client-1 -> 285 -> ok
+Client WriteAsync paused for 4 ms at event 286 | Total paused: 5439 ms | Peak: 714 ms
+Client received ACK: client-1 -> 286 -> ok
+Client received ACK: client-1 -> 287 -> ok
+Client WriteAsync paused for 3 ms at event 288 | Total paused: 5442 ms | Peak: 714 ms
+Client received ACK: client-1 -> 288 -> ok
+Client WriteAsync paused for 3 ms at event 289 | Total paused: 5445 ms | Peak: 714 ms
+Client received ACK: client-1 -> 289 -> ok
+Client WriteAsync paused for 3 ms at event 290 | Total paused: 5448 ms | Peak: 714 ms
+Client received ACK: client-1 -> 290 -> ok
+Client WriteAsync paused for 2 ms at event 291 | Total paused: 5450 ms | Peak: 714 ms
+Client received ACK: client-1 -> 291 -> ok
+Client received ACK: client-1 -> 292 -> ok
+Client WriteAsync paused for 3 ms at event 293 | Total paused: 5453 ms | Peak: 714 ms
+Client received ACK: client-1 -> 293 -> ok
+Client WriteAsync paused for 3 ms at event 294 | Total paused: 5456 ms | Peak: 714 ms
+Client received ACK: client-1 -> 294 -> ok
+Client received ACK: client-1 -> 295 -> ok
+Client WriteAsync paused for 3 ms at event 296 | Total paused: 5459 ms | Peak: 714 ms
+Client received ACK: client-1 -> 296 -> ok
+Client WriteAsync paused for 2 ms at event 297 | Total paused: 5461 ms | Peak: 714 ms
+Client received ACK: client-1 -> 297 -> ok
+Client WriteAsync paused for 4 ms at event 298 | Total paused: 5465 ms | Peak: 714 ms
+Client received ACK: client-1 -> 298 -> ok
+Client WriteAsync paused for 2 ms at event 299 | Total paused: 5467 ms | Peak: 714 ms
+Client received ACK: client-1 -> 299 -> ok
+Client WriteAsync paused for 4 ms at event 300 | Total paused: 5471 ms | Peak: 714 ms
+Client received ACK: client-1 -> 300 -> ok
+Client WriteAsync paused for 5 ms at event 301 | Total paused: 5476 ms | Peak: 714 ms
+Client received ACK: client-1 -> 301 -> ok
+Client WriteAsync paused for 2 ms at event 302 | Total paused: 5478 ms | Peak: 714 ms
+Client received ACK: client-1 -> 302 -> ok
+Client WriteAsync paused for 3 ms at event 303 | Total paused: 5481 ms | Peak: 714 ms
+Client received ACK: client-1 -> 303 -> ok
+Client WriteAsync paused for 3 ms at event 304 | Total paused: 5484 ms | Peak: 714 ms
+Client received ACK: client-1 -> 304 -> ok
+Client WriteAsync paused for 3 ms at event 305 | Total paused: 5487 ms | Peak: 714 ms
+Client received ACK: client-1 -> 305 -> ok
+Client WriteAsync paused for 2 ms at event 306 | Total paused: 5489 ms | Peak: 714 ms
+Client received ACK: client-1 -> 306 -> ok
+Client received ACK: client-1 -> 307 -> ok
+Client received ACK: client-1 -> 308 -> ok
+Client WriteAsync paused for 3 ms at event 309 | Total paused: 5492 ms | Peak: 714 ms
+Client received ACK: client-1 -> 309 -> ok
+Client WriteAsync paused for 3 ms at event 310 | Total paused: 5495 ms | Peak: 714 ms
+Client received ACK: client-1 -> 310 -> ok
+Client WriteAsync paused for 2 ms at event 311 | Total paused: 5497 ms | Peak: 714 ms
+Client received ACK: client-1 -> 311 -> ok
+Client received ACK: client-1 -> 312 -> ok
+Client WriteAsync paused for 3 ms at event 313 | Total paused: 5500 ms | Peak: 714 ms
+Client received ACK: client-1 -> 313 -> ok
+Client WriteAsync paused for 2 ms at event 314 | Total paused: 5502 ms | Peak: 714 ms
+Client received ACK: client-1 -> 314 -> ok
+Client WriteAsync paused for 4 ms at event 315 | Total paused: 5506 ms | Peak: 714 ms
+Client received ACK: client-1 -> 315 -> ok
+Client WriteAsync paused for 2 ms at event 316 | Total paused: 5508 ms | Peak: 714 ms
+Client received ACK: client-1 -> 316 -> ok
+Client WriteAsync paused for 4 ms at event 317 | Total paused: 5512 ms | Peak: 714 ms
+Client received ACK: client-1 -> 317 -> ok
+Client received ACK: client-1 -> 318 -> ok
+Client received ACK: client-1 -> 319 -> ok
+Client received ACK: client-1 -> 320 -> ok
+Client WriteAsync paused for 2 ms at event 321 | Total paused: 5514 ms | Peak: 714 ms
+Client received ACK: client-1 -> 321 -> ok
+Client WriteAsync paused for 4 ms at event 322 | Total paused: 5518 ms | Peak: 714 ms
+Client received ACK: client-1 -> 322 -> ok
+Client WriteAsync paused for 4 ms at event 323 | Total paused: 5522 ms | Peak: 714 ms
+Client received ACK: client-1 -> 323 -> ok
+Client received ACK: client-1 -> 324 -> ok
+Client WriteAsync paused for 3 ms at event 325 | Total paused: 5525 ms | Peak: 714 ms
+Client received ACK: client-1 -> 325 -> ok
+Client WriteAsync paused for 10 ms at event 326 | Total paused: 5535 ms | Peak: 714 ms
+Client received ACK: client-1 -> 326 -> ok
+Client WriteAsync paused for 2 ms at event 327 | Total paused: 5537 ms | Peak: 714 ms
+Client received ACK: client-1 -> 327 -> ok
+Client WriteAsync paused for 3 ms at event 328 | Total paused: 5540 ms | Peak: 714 ms
+Client received ACK: client-1 -> 328 -> ok
+Client WriteAsync paused for 4 ms at event 329 | Total paused: 5544 ms | Peak: 714 ms
+Client received ACK: client-1 -> 329 -> ok
+Client received ACK: client-1 -> 330 -> ok
+Client WriteAsync paused for 5 ms at event 331 | Total paused: 5549 ms | Peak: 714 ms
+Client received ACK: client-1 -> 331 -> ok
+Client WriteAsync paused for 2 ms at event 332 | Total paused: 5551 ms | Peak: 714 ms
+Client received ACK: client-1 -> 332 -> ok
+Client WriteAsync paused for 2 ms at event 333 | Total paused: 5553 ms | Peak: 714 ms
+Client WriteAsync paused for 3 ms at event 335 | Total paused: 5556 ms | Peak: 714 ms
+Client received ACK: client-1 -> 333 -> ok
+Client received ACK: client-1 -> 334 -> ok
+Client received ACK: client-1 -> 335 -> ok
+Client WriteAsync paused for 23 ms at event 336 | Total paused: 5579 ms | Peak: 714 ms
+Client received ACK: client-1 -> 336 -> ok
+Client received ACK: client-1 -> 337 -> ok
+Client received ACK: client-1 -> 338 -> ok
+Client WriteAsync paused for 2 ms at event 339 | Total paused: 5581 ms | Peak: 714 ms
+Client received ACK: client-1 -> 339 -> ok
+Client WriteAsync paused for 2 ms at event 340 | Total paused: 5583 ms | Peak: 714 ms
+Client received ACK: client-1 -> 340 -> ok
+Client WriteAsync paused for 4 ms at event 341 | Total paused: 5587 ms | Peak: 714 ms
+Client received ACK: client-1 -> 341 -> ok
+Client received ACK: client-1 -> 342 -> ok
+Client WriteAsync paused for 3 ms at event 343 | Total paused: 5590 ms | Peak: 714 ms
+Client received ACK: client-1 -> 343 -> ok
+Client WriteAsync paused for 4 ms at event 344 | Total paused: 5594 ms | Peak: 714 ms
+Client received ACK: client-1 -> 344 -> ok
+Client WriteAsync paused for 2 ms at event 345 | Total paused: 5596 ms | Peak: 714 ms
+Client received ACK: client-1 -> 345 -> ok
+Client WriteAsync paused for 3 ms at event 346 | Total paused: 5599 ms | Peak: 714 ms
+Client received ACK: client-1 -> 346 -> ok
+Client WriteAsync paused for 5 ms at event 347 | Total paused: 5604 ms | Peak: 714 ms
+Client received ACK: client-1 -> 347 -> ok
+Client received ACK: client-1 -> 348 -> ok
+Client WriteAsync paused for 3 ms at event 349 | Total paused: 5607 ms | Peak: 714 ms
+Client received ACK: client-1 -> 349 -> ok
+Client WriteAsync paused for 2 ms at event 350 | Total paused: 5609 ms | Peak: 714 ms
+Client received ACK: client-1 -> 350 -> ok
+Client WriteAsync paused for 2 ms at event 351 | Total paused: 5611 ms | Peak: 714 ms
+Client received ACK: client-1 -> 351 -> ok
+Client WriteAsync paused for 3 ms at event 352 | Total paused: 5614 ms | Peak: 714 ms
+Client received ACK: client-1 -> 352 -> ok
+Client WriteAsync paused for 4 ms at event 353 | Total paused: 5618 ms | Peak: 714 ms
+Client received ACK: client-1 -> 353 -> ok
+Client received ACK: client-1 -> 354 -> ok
+Client received ACK: client-1 -> 355 -> ok
+Client received ACK: client-1 -> 356 -> ok
+Client WriteAsync paused for 2 ms at event 357 | Total paused: 5620 ms | Peak: 714 ms
+Client received ACK: client-1 -> 357 -> ok
+Client WriteAsync paused for 3 ms at event 358 | Total paused: 5623 ms | Peak: 714 ms
+Client received ACK: client-1 -> 358 -> ok
+Client WriteAsync paused for 2 ms at event 359 | Total paused: 5625 ms | Peak: 714 ms
+Client received ACK: client-1 -> 359 -> ok
+Client WriteAsync paused for 4 ms at event 360 | Total paused: 5629 ms | Peak: 714 ms
+Client received ACK: client-1 -> 360 -> ok
+Client WriteAsync paused for 3 ms at event 361 | Total paused: 5632 ms | Peak: 714 ms
+Client received ACK: client-1 -> 361 -> ok
+Client WriteAsync paused for 3 ms at event 362 | Total paused: 5635 ms | Peak: 714 ms
+Client received ACK: client-1 -> 362 -> ok
+Client received ACK: client-1 -> 363 -> ok
+Client received ACK: client-1 -> 364 -> ok
+Client received ACK: client-1 -> 365 -> ok
+Client WriteAsync paused for 5 ms at event 366 | Total paused: 5640 ms | Peak: 714 ms
+Client received ACK: client-1 -> 366 -> ok
+Client WriteAsync paused for 4 ms at event 367 | Total paused: 5644 ms | Peak: 714 ms
+Client received ACK: client-1 -> 367 -> ok
+Client WriteAsync paused for 3 ms at event 368 | Total paused: 5647 ms | Peak: 714 ms
+Client received ACK: client-1 -> 368 -> ok
+Client received ACK: client-1 -> 369 -> ok
+Client WriteAsync paused for 2 ms at event 370 | Total paused: 5649 ms | Peak: 714 ms
+Client received ACK: client-1 -> 370 -> ok
+Client WriteAsync paused for 19 ms at event 371 | Total paused: 5668 ms | Peak: 714 ms
+Client received ACK: client-1 -> 371 -> ok
+Client WriteAsync paused for 2 ms at event 372 | Total paused: 5670 ms | Peak: 714 ms
+Client received ACK: client-1 -> 372 -> ok
+Client WriteAsync paused for 3 ms at event 374 | Total paused: 5673 ms | Peak: 714 ms
+Client received ACK: client-1 -> 373 -> ok
+Client received ACK: client-1 -> 374 -> ok
+Client received ACK: client-1 -> 375 -> ok
+Client WriteAsync paused for 4 ms at event 376 | Total paused: 5677 ms | Peak: 714 ms
+Client received ACK: client-1 -> 376 -> ok
+Client WriteAsync paused for 2 ms at event 377 | Total paused: 5679 ms | Peak: 714 ms
+Client received ACK: client-1 -> 377 -> ok
+Client received ACK: client-1 -> 378 -> ok
+Client WriteAsync paused for 4 ms at event 379 | Total paused: 5683 ms | Peak: 714 ms
+Client received ACK: client-1 -> 379 -> ok
+Client received ACK: client-1 -> 380 -> ok
+Client WriteAsync paused for 5 ms at event 381 | Total paused: 5688 ms | Peak: 714 ms
+Client received ACK: client-1 -> 381 -> ok
+Client WriteAsync paused for 2 ms at event 382 | Total paused: 5690 ms | Peak: 714 ms
+Client received ACK: client-1 -> 382 -> ok
+Client WriteAsync paused for 5 ms at event 383 | Total paused: 5695 ms | Peak: 714 ms
+Client received ACK: client-1 -> 383 -> ok
+Client WriteAsync paused for 4 ms at event 384 | Total paused: 5699 ms | Peak: 714 ms
+Client received ACK: client-1 -> 384 -> ok
+Client received ACK: client-1 -> 385 -> ok
+Client WriteAsync paused for 2 ms at event 387 | Total paused: 5701 ms | Peak: 714 ms
+Client received ACK: client-1 -> 386 -> ok
+Client WriteAsync paused for 13 ms at event 388 | Total paused: 5714 ms | Peak: 714 ms
+Client received ACK: client-1 -> 387 -> ok
+Client WriteAsync paused for 274 ms at event 389 | Total paused: 5988 ms | Peak: 714 ms
+Client received ACK: client-1 -> 388 -> ok
+Client received ACK: client-1 -> 389 -> ok
+Client received ACK: client-1 -> 390 -> ok
+Client WriteAsync paused for 682 ms at event 392 | Total paused: 6670 ms | Peak: 714 ms
+Client received ACK: client-1 -> 391 -> ok
+Client received ACK: client-1 -> 392 -> ok
+Client received ACK: client-1 -> 393 -> ok
+Client received ACK: client-1 -> 394 -> ok
+Client WriteAsync paused for 2 ms at event 395 | Total paused: 6672 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 397 | Total paused: 6674 ms | Peak: 714 ms
+Client received ACK: client-1 -> 395 -> ok
+Client received ACK: client-1 -> 396 -> ok
+Client received ACK: client-1 -> 397 -> ok
+Client received ACK: client-1 -> 398 -> ok
+Client received ACK: client-1 -> 399 -> ok
+Client received ACK: client-1 -> 400 -> ok
+Client WriteAsync paused for 3 ms at event 401 | Total paused: 6677 ms | Peak: 714 ms
+Client received ACK: client-1 -> 401 -> ok
+Client WriteAsync paused for 4 ms at event 402 | Total paused: 6681 ms | Peak: 714 ms
+Client received ACK: client-1 -> 402 -> ok
+Client WriteAsync paused for 2 ms at event 403 | Total paused: 6683 ms | Peak: 714 ms
+Client received ACK: client-1 -> 403 -> ok
+Client WriteAsync paused for 2 ms at event 404 | Total paused: 6685 ms | Peak: 714 ms
+Client received ACK: client-1 -> 404 -> ok
+Client WriteAsync paused for 139 ms at event 406 | Total paused: 6824 ms | Peak: 714 ms
+Client received ACK: client-1 -> 405 -> ok
+Client received ACK: client-1 -> 406 -> ok
+Client received ACK: client-1 -> 407 -> ok
+Client received ACK: client-1 -> 408 -> ok
+Client received ACK: client-1 -> 409 -> ok
+Client received ACK: client-1 -> 410 -> ok
+Client received ACK: client-1 -> 411 -> ok
+Client WriteAsync paused for 2 ms at event 412 | Total paused: 6826 ms | Peak: 714 ms
+Client received ACK: client-1 -> 412 -> ok
+Client WriteAsync paused for 3 ms at event 413 | Total paused: 6829 ms | Peak: 714 ms
+Client received ACK: client-1 -> 413 -> ok
+Client WriteAsync paused for 2 ms at event 414 | Total paused: 6831 ms | Peak: 714 ms
+Client WriteAsync paused for 3 ms at event 415 | Total paused: 6834 ms | Peak: 714 ms
+Client received ACK: client-1 -> 414 -> ok
+Client WriteAsync paused for 421 ms at event 416 | Total paused: 7255 ms | Peak: 714 ms
+Client received ACK: client-1 -> 415 -> ok
+Client WriteAsync paused for 354 ms at event 417 | Total paused: 7609 ms | Peak: 714 ms
+Client received ACK: client-1 -> 416 -> ok
+Client WriteAsync paused for 129 ms at event 419 | Total paused: 7738 ms | Peak: 714 ms
+Client received ACK: client-1 -> 417 -> ok
+Client received ACK: client-1 -> 418 -> ok
+Client WriteAsync paused for 419 ms at event 420 | Total paused: 8157 ms | Peak: 714 ms
+Client received ACK: client-1 -> 419 -> ok
+Client WriteAsync paused for 346 ms at event 421 | Total paused: 8503 ms | Peak: 714 ms
+Client received ACK: client-1 -> 420 -> ok
+Client WriteAsync paused for 228 ms at event 422 | Total paused: 8731 ms | Peak: 714 ms
+Client received ACK: client-1 -> 421 -> ok
+Client received ACK: client-1 -> 422 -> ok
+Client WriteAsync paused for 3 ms at event 423 | Total paused: 8734 ms | Peak: 714 ms
+Client received ACK: client-1 -> 423 -> ok
+Client received ACK: client-1 -> 424 -> ok
+Client WriteAsync paused for 5 ms at event 425 | Total paused: 8739 ms | Peak: 714 ms
+Client received ACK: client-1 -> 425 -> ok
+Client WriteAsync paused for 12 ms at event 426 | Total paused: 8751 ms | Peak: 714 ms
+Client WriteAsync paused for 2 ms at event 427 | Total paused: 8753 ms | Peak: 714 ms
+Client received ACK: client-1 -> 426 -> ok
+Client WriteAsync paused for 427 ms at event 429 | Total paused: 9180 ms | Peak: 714 ms
+Client received ACK: client-1 -> 427 -> ok
+Client received ACK: client-1 -> 428 -> ok
+Client WriteAsync paused for 281 ms at event 431 | Total paused: 9461 ms | Peak: 714 ms
+Client received ACK: client-1 -> 429 -> ok
+Client WriteAsync paused for 262 ms at event 432 | Total paused: 9723 ms | Peak: 714 ms
+Client received ACK: client-1 -> 430 -> ok
+Client received ACK: client-1 -> 431 -> ok
+Client WriteAsync paused for 771 ms at event 433 | Total paused: 10494 ms | Peak: 771 ms
+Client WriteAsync paused for 3 ms at event 434 | Total paused: 10497 ms | Peak: 771 ms
+Client received ACK: client-1 -> 432 -> ok
+Client received ACK: client-1 -> 433 -> ok
+Client WriteAsync paused for 474 ms at event 435 | Total paused: 10971 ms | Peak: 771 ms
+Client received ACK: client-1 -> 434 -> ok
+Client received ACK: client-1 -> 435 -> ok
+Client received ACK: client-1 -> 436 -> ok
+Client WriteAsync paused for 424 ms at event 438 | Total paused: 11395 ms | Peak: 771 ms
+Client received ACK: client-1 -> 437 -> ok
+Client WriteAsync paused for 368 ms at event 439 | Total paused: 11763 ms | Peak: 771 ms
+Client received ACK: client-1 -> 438 -> ok
+Client WriteAsync paused for 112 ms at event 440 | Total paused: 11875 ms | Peak: 771 ms
+Client received ACK: client-1 -> 439 -> ok
+Client WriteAsync paused for 98 ms at event 441 | Total paused: 11973 ms | Peak: 771 ms
+Client received ACK: client-1 -> 440 -> ok
+Client received ACK: client-1 -> 441 -> ok
+Client WriteAsync paused for 418 ms at event 442 | Total paused: 12391 ms | Peak: 771 ms
+Client WriteAsync paused for 3 ms at event 443 | Total paused: 12394 ms | Peak: 771 ms
+Client received ACK: client-1 -> 442 -> ok
+Client WriteAsync paused for 407 ms at event 444 | Total paused: 12801 ms | Peak: 771 ms
+Client received ACK: client-1 -> 443 -> ok
+Client received ACK: client-1 -> 444 -> ok
+Client received ACK: client-1 -> 445 -> ok
+Client WriteAsync paused for 416 ms at event 447 | Total paused: 13217 ms | Peak: 771 ms
+Client received ACK: client-1 -> 446 -> ok
+Client WriteAsync paused for 20 ms at event 448 | Total paused: 13237 ms | Peak: 771 ms
+Client received ACK: client-1 -> 447 -> ok
+Client WriteAsync paused for 143 ms at event 449 | Total paused: 13380 ms | Peak: 771 ms
+Client received ACK: client-1 -> 448 -> ok
+Client received ACK: client-1 -> 449 -> ok
+Client received ACK: client-1 -> 450 -> ok
+Client WriteAsync paused for 301 ms at event 451 | Total paused: 13681 ms | Peak: 771 ms
+Client received ACK: client-1 -> 451 -> ok
+Client received ACK: client-1 -> 452 -> ok
+Client WriteAsync paused for 3 ms at event 453 | Total paused: 13684 ms | Peak: 771 ms
+Client received ACK: client-1 -> 453 -> ok
+Client WriteAsync paused for 2 ms at event 455 | Total paused: 13686 ms | Peak: 771 ms
+Client received ACK: client-1 -> 454 -> ok
+Client WriteAsync paused for 32 ms at event 456 | Total paused: 13718 ms | Peak: 771 ms
+Client received ACK: client-1 -> 455 -> ok
+Client WriteAsync paused for 462 ms at event 457 | Total paused: 14180 ms | Peak: 771 ms
+Client received ACK: client-1 -> 456 -> ok
+Client received ACK: client-1 -> 457 -> ok
+Client WriteAsync paused for 4 ms at event 458 | Total paused: 14184 ms | Peak: 771 ms
+Client WriteAsync paused for 3 ms at event 459 | Total paused: 14187 ms | Peak: 771 ms
+Client received ACK: client-1 -> 458 -> ok
+Client WriteAsync paused for 296 ms at event 460 | Total paused: 14483 ms | Peak: 771 ms
+Client received ACK: client-1 -> 459 -> ok
+Client received ACK: client-1 -> 460 -> ok
+Client WriteAsync paused for 2 ms at event 461 | Total paused: 14485 ms | Peak: 771 ms
+Client received ACK: client-1 -> 461 -> ok
+Client WriteAsync paused for 4 ms at event 462 | Total paused: 14489 ms | Peak: 771 ms
+Client received ACK: client-1 -> 462 -> ok
+Client received ACK: client-1 -> 463 -> ok
+Client WriteAsync paused for 3 ms at event 464 | Total paused: 14492 ms | Peak: 771 ms
+Client received ACK: client-1 -> 464 -> ok
+Client received ACK: client-1 -> 465 -> ok
+Client WriteAsync paused for 2 ms at event 466 | Total paused: 14494 ms | Peak: 771 ms
+Client received ACK: client-1 -> 466 -> ok
+Client received ACK: client-1 -> 467 -> ok
+Client received ACK: client-1 -> 468 -> ok
+Client WriteAsync paused for 158 ms at event 469 | Total paused: 14652 ms | Peak: 771 ms
+Client WriteAsync paused for 2 ms at event 470 | Total paused: 14654 ms | Peak: 771 ms
+Client received ACK: client-1 -> 469 -> ok
+Client received ACK: client-1 -> 470 -> ok
+Client WriteAsync paused for 2 ms at event 471 | Total paused: 14656 ms | Peak: 771 ms
+Client received ACK: client-1 -> 471 -> ok
+Client WriteAsync paused for 5 ms at event 472 | Total paused: 14661 ms | Peak: 771 ms
+Client received ACK: client-1 -> 472 -> ok
+Client WriteAsync paused for 3 ms at event 473 | Total paused: 14664 ms | Peak: 771 ms
+Client received ACK: client-1 -> 473 -> ok
+Client WriteAsync paused for 3 ms at event 474 | Total paused: 14667 ms | Peak: 771 ms
+Client received ACK: client-1 -> 474 -> ok
+Client received ACK: client-1 -> 475 -> ok
+Client received ACK: client-1 -> 476 -> ok
+Client received ACK: client-1 -> 477 -> ok
+Client WriteAsync paused for 3 ms at event 479 | Total paused: 14670 ms | Peak: 771 ms
+Client received ACK: client-1 -> 478 -> ok
+Client received ACK: client-1 -> 479 -> ok
+Client WriteAsync paused for 3 ms at event 480 | Total paused: 14673 ms | Peak: 771 ms
+Client received ACK: client-1 -> 480 -> ok
+Client WriteAsync paused for 4 ms at event 481 | Total paused: 14677 ms | Peak: 771 ms
+Client received ACK: client-1 -> 481 -> ok
+Client received ACK: client-1 -> 482 -> ok
+Client WriteAsync paused for 18 ms at event 483 | Total paused: 14695 ms | Peak: 771 ms
+Client received ACK: client-1 -> 483 -> ok
+Client WriteAsync paused for 88 ms at event 485 | Total paused: 14783 ms | Peak: 771 ms
+Client received ACK: client-1 -> 484 -> ok
+Client received ACK: client-1 -> 485 -> ok
+Client WriteAsync paused for 333 ms at event 486 | Total paused: 15116 ms | Peak: 771 ms
+Client received ACK: client-1 -> 486 -> ok
+Client received ACK: client-1 -> 487 -> ok
+Client WriteAsync paused for 3 ms at event 488 | Total paused: 15119 ms | Peak: 771 ms
+Client received ACK: client-1 -> 488 -> ok
+Client WriteAsync paused for 2 ms at event 489 | Total paused: 15121 ms | Peak: 771 ms
+Client WriteAsync paused for 2 ms at event 490 | Total paused: 15123 ms | Peak: 771 ms
+Client received ACK: client-1 -> 489 -> ok
+Client received ACK: client-1 -> 490 -> ok
+Client WriteAsync paused for 2 ms at event 491 | Total paused: 15125 ms | Peak: 771 ms
+Client received ACK: client-1 -> 491 -> ok
+Client WriteAsync paused for 4 ms at event 492 | Total paused: 15129 ms | Peak: 771 ms
+Client received ACK: client-1 -> 492 -> ok
+Client received ACK: client-1 -> 493 -> ok
+Client WriteAsync paused for 5 ms at event 494 | Total paused: 15134 ms | Peak: 771 ms
+Client received ACK: client-1 -> 494 -> ok
+Client received ACK: client-1 -> 495 -> ok
+Client received ACK: client-1 -> 496 -> ok
+Client WriteAsync paused for 3 ms at event 497 | Total paused: 15137 ms | Peak: 771 ms
+Client received ACK: client-1 -> 497 -> ok
+Client WriteAsync paused for 3 ms at event 498 | Total paused: 15140 ms | Peak: 771 ms
+Client received ACK: client-1 -> 498 -> ok
+Client WriteAsync paused for 2 ms at event 499 | Total paused: 15142 ms | Peak: 771 ms
+Client received ACK: client-1 -> 499 -> ok
